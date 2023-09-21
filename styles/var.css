@@ -1,0 +1,12 @@
+:root {
+    --dark: #333;
+    --light: #fff;
+    --lightPrimary: #f7f7f7;
+    --lightPink: #ffc6c6;
+    --darkPink: #ff6464;
+    --green: #2ecc71;
+    --red: #e74c3c;
+    --borderColor: #ccc;
+    --medium: Arial, sans-serif;
+    --bold: bold-josefina, sans-serif;
+}
